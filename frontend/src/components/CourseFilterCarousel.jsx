@@ -135,6 +135,12 @@ const CourseFilterCarousel = () => {
           ))
         )}
       </div>
+
+      <div className="flex justify-center">
+        <Link to="/courses" className="btn text-center">
+          Browse All our Courses
+        </Link>
+      </div>
     </div>
   );
 };
