@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "title": "Python Programming",
+    "excerpt": "Learn Python from scratch, covering basic to advanced concepts with hands-on projects.",
+    "description": "This Python Programming course is designed for beginners and intermediate learners who want to master Python. The course covers fundamental concepts like variables, loops, and functions, as well as advanced topics such as object-oriented programming (OOP), file handling, and database connectivity. By the end of this course, you will be able to build real-world applications using Python.",
+    "category": "Programming & Development",
+    "duration": "12 weeks",
+    "difficultyLevel": "Beginner to Intermediate",
+    "prerequisites": ["Basic computer skills", "Logical thinking"],
+    "language": "English",
+    "tags": ["Python", "Programming", "Software Development", "Backend"],
+    "ratings": {
+      "averageRating": 4.9,
+      "totalReviews": 150
+    },
+    "enrollmentCount": 500,
+    "price": 49.99,
+    "discountPrice": 29.99,
+    "certification": true,
+    "communitySupport": true,
+    "courseStatus": "Active",
+    "instructor": {
+      "instructorId": 101,
+      "instructorName": "Dr. Alice Thompson",
+      "profilePicture": "/img/alice-thompson.png",
+      "instructorBio": "Dr. Alice Thompson is a software engineer with 10+ years of experience in Python development and teaching. She has worked on multiple large-scale applications and is passionate about coding education.",
+      "instructorSocialLinks": {
+        "linkedin": "https://linkedin.com/in/alicethompson",
+        "website": "https://alicethompson.com"
+      }
+    },
+    "media": {
+      "icon": "/img/python-icon.png",
+      "thumbnail": "/img/python-thumbnail.png",
+      "banner": "/img/python-banner.png",
+      "promoVideo": "/vid/python-intro.mp4"
+    },
+    "syllabus": "/pdf/python-syllabus.pdf",
+    "courseOutline": [
+      {
+        "moduleId": 1,
+        "moduleTitle": "Getting Started with Python",
+        "moduleDescription": "Learn the basics of Python programming, including installation, syntax, and basic data types.",
+        "moduleDuration": "4 hours",
+        "moduleResources": [
+          {
+            "title": "Python Official Documentation",
+            "link": "https://docs.python.org/3/"
+          }
+        ],
+        "lessons": [
+          {
+            "lessonId": 1,
+            "lessonTitle": "Introduction to Python",
+            "lessonDescription": "Understand what Python is, why it's popular, and how to set up your development environment.",
+            "lessonDuration": "30 minutes",
+            "lessonType": "Video",
+            "lessonMedia": {
+              "lessonVideo": "/vid/python-intro.mp4",
+              "lessonPDF": "/pdf/python-intro.pdf"
+            },
+            "lessonQuestions": [
+              {
+                "serialNo": 1,
+                "question": "Who created Python?",
+                "options": [
+                  "Guido van Rossum",
+                  "James Gosling",
+                  "Dennis Ritchie"
+                ],
+                "answer": "Guido van Rossum"
+              },
+              {
+                "serialNo": 2,
+                "question": "Which of the following is a valid Python variable name?",
+                "options": ["123variable", "my_variable", "class"],
+                "answer": "my_variable"
+              }
+            ],
+            "tasks": ["Install Python and set up a development environment."]
+          },
+          {
+            "lessonId": 2,
+            "lessonTitle": "Variables and Data Types",
+            "lessonDescription": "Learn about Python variables, data types, and how to use them in your programs.",
+            "lessonDuration": "40 minutes",
+            "lessonType": "Video",
+            "lessonMedia": {
+              "lessonVideo": "/vid/python-variables.mp4",
+              "lessonPDF": "/pdf/python-variables.pdf"
+            },
+            "lessonQuestions": [
+              {
+                "serialNo": 1,
+                "question": "Which of the following is an immutable data type in Python?",
+                "options": ["List", "Dictionary", "Tuple"],
+                "answer": "Tuple"
+              }
+            ],
+            "tasks": [
+              "Write a Python program that prints your name and age using variables."
+            ]
+          }
+        ]
+      },
+      {
+        "moduleId": 2,
+        "moduleTitle": "Control Flow and Loops",
+        "moduleDescription": "Understand how to use conditional statements and loops to control program execution.",
+        "moduleDuration": "5 hours",
+        "moduleResources": [
+          {
+            "title": "Python Control Flow Guide",
+            "link": "https://realpython.com/python-conditional-statements/"
+          }
+        ],
+        "lessons": [
+          {
+            "lessonId": 3,
+            "lessonTitle": "Conditional Statements",
+            "lessonDescription": "Learn how to use if-else statements to control the flow of a Python program.",
+            "lessonDuration": "45 minutes",
+            "lessonType": "Video",
+            "lessonMedia": {
+              "lessonVideo": "/vid/python-conditionals.mp4",
+              "lessonPDF": "/pdf/python-conditionals.pdf"
+            },
+            "lessonQuestions": [
+              {
+                "serialNo": 1,
+                "question": "What will be the output of the following code?\n\n```python\nx = 10\nif x > 5:\n  print('Greater')\nelse:\n  print('Smaller')\n```",
+                "options": ["Greater", "Smaller", "Error"],
+                "answer": "Greater"
+              }
+            ],
+            "tasks": [
+              "Write a Python program that checks if a number is even or odd."
+            ]
+          },
+          {
+            "lessonId": 4,
+            "lessonTitle": "Loops in Python",
+            "lessonDescription": "Understand how to use for and while loops for iteration in Python.",
+            "lessonDuration": "50 minutes",
+            "lessonType": "Video",
+            "lessonMedia": {
+              "lessonVideo": "/vid/python-loops.mp4",
+              "lessonPDF": "/pdf/python-loops.pdf"
+            },
+            "lessonQuestions": [
+              {
+                "serialNo": 1,
+                "question": "Which type of loop executes at least once regardless of the condition?",
+                "options": ["for loop", "while loop", "do-while loop"],
+                "answer": "do-while loop (not available in Python)"
+              }
+            ],
+            "tasks": [
+              "Write a Python program that prints numbers from 1 to 10 using a for loop."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
