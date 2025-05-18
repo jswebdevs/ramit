@@ -1,4 +1,4 @@
-import heroimage from "../assets/hero.jpg";
+import heroimage from "../assets/sl1.png";
 import bannerBg from "../assets/banner_bg.png";
 import { Link } from "react-router-dom";
 const HeroSection = () => {

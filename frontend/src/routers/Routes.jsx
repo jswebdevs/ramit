@@ -9,6 +9,9 @@ import Admin from "../pages/Admin";
 import AboutUs from "../pages/AboutUs";
 import Courses from "../pages/Courses";
 import SingleCourse from "../components/SingleCourse";
+import RegisterPage from "../pages/RegisterPage";
+import LoginPage from "../pages/LoginPage";
+import AccountPage from "../pages/AccountPage";
 
 
 const Routes = createBrowserRouter([
@@ -36,6 +39,18 @@ const Routes = createBrowserRouter([
       {
         path: "courses/:title",
         element: <SingleCourse></SingleCourse>
+      },
+      {
+        path: 'register',
+        element : <RegisterPage></RegisterPage>
+      },
+      {
+        path: 'login',
+        element: <LoginPage></LoginPage>
+      },
+      {
+        path: 'account',
+        element: <AccountPage></AccountPage>
       }
     ],
   },

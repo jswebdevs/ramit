@@ -3,8 +3,13 @@ import { useState, useEffect } from "react";
 import logo from "../assets/logo.png";
 import { IoClose } from "react-icons/io5";
 import offCanvasBG from "../assets/offCanvasBg.png";
+import { useAdminAuth } from "../providers/AdminAuthProvider";
 
 const Navbar = () => {
+
+  const {loggedIn} = useAdminAuth();
+
+
   const location = useLocation();
   const [isDrawerOpen, setIsDrawerOpen] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
@@ -31,6 +36,10 @@ const Navbar = () => {
     { name: "Success Story", path: "/success" },
     { name: "Blog", path: "/blog" },
     { name: "Contact Us", path: "/contact-us" },
+    // loggedIn?
+    // { name: "Account", path: "/account"} :
+    // { name: "Login", path: "/login"}
+    
   ];
 
   const handleCloseDrawer = () => {
