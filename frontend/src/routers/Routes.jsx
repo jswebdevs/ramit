@@ -6,12 +6,14 @@ import Root from "../layout/Root";
 import Homepage from "../pages/Homepage";
 import Errorpage from "../pages/Errorpage";
 import Admin from "../pages/Admin";
-import AboutUs from "../pages/AboutUs";
+import AboutPage from "../pages/AboutPage";
 import Courses from "../pages/Courses";
 import SingleCourse from "../components/SingleCourse";
 import RegisterPage from "../pages/RegisterPage";
 import LoginPage from "../pages/LoginPage";
 import AccountPage from "../pages/AccountPage";
+import ContactPage from "../pages/ContactPage";
+import SuccessPage from "../pages/SuccessPage";
 
 
 const Routes = createBrowserRouter([
@@ -30,7 +32,11 @@ const Routes = createBrowserRouter([
       },
       {
         path: "about-us",
-        element: <AboutUs></AboutUs>,
+        element: <AboutPage></AboutPage>,
+      },
+      {
+        path: "contact-us",
+        element: <ContactPage></ContactPage>
       },
       {
         path: "courses",
@@ -51,6 +57,10 @@ const Routes = createBrowserRouter([
       {
         path: 'account',
         element: <AccountPage></AccountPage>
+      },
+      {
+        path: "success",
+        element: <SuccessPage></SuccessPage>
       }
     ],
   },
