@@ -32,7 +32,7 @@ async function run() {
     await client.db("admin").command({ ping: 1 });
     console.log("Pinged your deployment. You successfully connected to MongoDB!");
 
-    const courseDB = client.db("RamIT");
+    const courseDB = client.db("ramitweb");
     const coursesData = courseDB.collection("courses");
 
     app.get("/courses", async (req, res) => {

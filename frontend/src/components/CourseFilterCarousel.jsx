@@ -31,7 +31,7 @@ const CourseFilterCarousel = () => {
   const [selectedCategory, setSelectedCategory] = useState("All Courses");
 
   useEffect(() => {
-    fetch("/courses.json")
+    fetch("http://localhost:5000/courses")
       .then((res) => res.json())
       .then((data) => setCourses(data))
       .catch((err) => console.error("Error loading courses:", err));
