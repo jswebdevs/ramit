@@ -31,7 +31,7 @@ const CourseFilterCarousel = () => {
   const [selectedCategory, setSelectedCategory] = useState("All Courses");
 
   useEffect(() => {
-    fetch("http://localhost:5000/courses")
+    fetch("https://ramit.onrender.com/courses")
       .then((res) => res.json())
       .then((data) => setCourses(data))
       .catch((err) => console.error("Error loading courses:", err));

@@ -7,7 +7,7 @@ const SingleCourse = () => {
   const [selectedCourse, setSelectedCourse] = useState(null);
 
   useEffect(() => {
-    fetch("/courses.json")
+    fetch("https://ramit.onrender.com/courses")
       .then((res) => res.json())
       .then((data) => {
         setCourses(data);
