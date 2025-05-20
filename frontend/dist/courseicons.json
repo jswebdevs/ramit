@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1001,
+    "name": "Graphic Design",
+    "link": "/graphic-design",
+    "icon": "/courseicons/gd.png"
+  },
+  {
+    "id": 1002,
+    "name": "Web Design & Development",
+    "link": "/web-design-development",
+    "icon": "/courseicons/wd.png"
+  },
+  {
+    "id": 1003,
+    "name": "Digital Marketing",
+    "link": "/digital-marketing",
+    "icon": "/courseicons/dm.png"
+  },
+  {
+    "id": 1004,
+    "name": "Cyber Security",
+    "link": "/cyber-security",
+    "icon": "/courseicons/cs.png"
+  },
+  {
+    "id": 1005,
+    "name": "Android App Development",
+    "link": "/android-app-development",
+    "icon": "/courseicons/aad.png"
+  }
+]

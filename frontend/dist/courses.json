@@ -1,0 +1,1137 @@
+[
+  {
+    "id": 1,
+    "title": "AI Enabled Digital Marketing Course",
+    "excerpt": "Unlock the power of online marketing with our comprehensive Professional Digital Marketing Course.",
+    "description": "Unlock the power of online marketing with our comprehensive Professional Digital Marketing Course. Designed for beginners to aspiring experts, this course will guide you through the essential tools and strategies to build, manage, and scale successful digital campaigns. Learn how to leverage platforms like Google, Facebook, YouTube, and Instagram, and develop strong SEO, email marketing, and content strategies. Whether you're a freelancer, entrepreneur, or job-seeker, this course will prepare you to thrive in the digital world.",
+    "category": "Digital Marketing",
+    "duration": "4 Months",
+    "difficultyLevel": "Beginner to Advance",
+    "prerequisites": ["Basic Computer Skills", "Internet Access"],
+    "language": "Bangla, English",
+    "tags": ["Digital Marketing", "SEO", "Social Media", "Content Marketing"],
+    "ratings": {
+      "averageRating": 4.9,
+      "totalReviews": 150
+    },
+    "enrollmentCount": 50,
+    "price": 10000,
+    "discountPrice": 10000,
+    "certification": true,
+    "communitySupport": true,
+    "courseStatus": "Active",
+    "media": {
+      "icon": "/courseicons/dm.png",
+      "thumbnail": "/courses/dm.jpg",
+      "banner": "/courses/dm.png",
+      "promoVideo": "/vid/python-intro.mp4"
+    },
+    "courseInfo" :[
+      {
+        "id": 1,
+        "icon": "🕒",
+        "title": "Course Duration",
+        "description": "4 Months"
+      },
+      {
+        "id" : 2,
+        "icon" : "💻",
+        "title" : "Class Mode",
+        "description": "Online / Offline (Both Available)"
+      },
+      {
+        "id": 3,
+        "icon": "📈",
+        "title" : "Skill Level",
+        "description" : "Beginner to Advacne"
+      },
+      {
+        "id": 4,
+        "icon": "🏅",
+        "title" : "Certification",
+        "description" : "Yes"
+      },
+      {
+        "id": 5,
+        "icon": "💼",
+        "title" : "Support",
+        "description" : "Lifetime Support"
+      },
+      {
+        "id": 6,
+        "icon": "💼",
+        "title" : "Career Support",
+        "description" : "Freelance Guidance & Job Placement Support"
+      }
+    ],
+
+    "courseContent" : [
+      {
+        "id": 1,
+        "icon": "📄",
+        "title": "Content Creation",
+        "description": "Jasper, Copy.ai, Writesonic, ChatGPT – Generate blog posts, ads, and social content."
+      },
+      {
+        "id": 2,
+        "icon" : "🔍",
+        "title" : "SEO & Optimization",
+        "description" : "Surfer SEO, Frase, Market Muse – Help with content planning and SEO improvements."
+      },
+      {
+        "id": 3,
+        "icon" : "📈",
+        "title" : "Analytics & Insights",
+        "description" : "Pave AI, Tableau + Einstein AI – Turn data into clear marketing insights."
+      },
+      {
+        "id": 4,
+        "icon" : "📧",
+        "title" : "Email Marketing",
+        "description" : "Seventh Sense, Mailchimp AI – Optimize send times and personalize content."
+      },
+      {
+        "id": 5,
+        "icon" : "🎯",
+        "title" : "Ad Management",
+        "description" : "Albert.ai, Adzooma, Smartly.io – Automate and optimize ad campaigns."
+      },
+      {
+        "id": 6,
+        "icon" : "💬",
+        "title" : "Chatbots & Engagement:",
+        "description" : "Drift, ManyChat, Tidio – AI-powered chatbots for lead generation and support."
+      },
+      {
+        "id": 7,
+        "icon" : "📱",
+        "title" : "Social Media",
+        "description" : "Lately.ai, Predis.ai, Cortex – Create and schedule AI-generated posts."
+      },
+      {
+        "id": 8,
+        "icon" : "🎯",
+        "title" : "Personalization",
+        "description" : "Persado, Dynamic Yield, Optimizely – AI-driven A/B testing and user targeting."
+      }
+
+    ],
+    "syllabus": "/pdf/python-syllabus.pdf"
+  },
+  
+  {
+    "id": 2,
+    "title": " Graphic Design Masterclass & Artificial Intelligence Tools",
+    "excerpt": "Begin your journey to becoming a graphic design masterpiece with the specialists and successful mentors at RAM IT.",
+    "description": "Everyone is creative by the grace of Allah, but to unlock and develop your potential, the guidance of experienced mentors is essential. Whether you are a complete beginner or have some prior knowledge, this course will help you become an internationally standard designer. Our mentors have been providing design services to companies across various countries for years and have helped many students become world-class designers.",
+    "category": "Graphic Design",
+    "duration": "3 Months",
+    "difficultyLevel": "Beginner to Advance",
+    "prerequisites": ["Basic Computer Skills", "Internet Access"],
+    "language": "Bangla, English",
+    "tags": ["HTML", "CSS", "JavaScript", "React", "Node", "MongoDB", "API"],
+    "ratings": {
+      "averageRating": 4.9,
+      "totalReviews": 150
+    },
+    "enrollmentCount": 50,
+    "price": 10000,
+    "discountPrice": 8000,
+    "certification": true,
+    "communitySupport": true,
+    "courseStatus": "Active",
+    "media": {
+      "icon": "/courseicons/gd.png",
+      "thumbnail": "/courses/gd.jpg",
+      "banner": "/courses/gd.jpg",
+      "promoVideo": "/vid/python-intro.mp4"
+    },
+    "courseInfo": [
+      {
+        "id": 1,
+        "icon": "🕒",
+        "title": "Course Duration",
+        "description": "3 Months"
+      },
+      {
+        "id": 2,
+        "icon": "💻",
+        "title": "Class Mode",
+        "description": "Online / Offline (Both Available)"
+      },
+      {
+        "id": 3,
+        "icon": "📈",
+        "title": "Skill Level",
+        "description": "Beginner to Advacne"
+      },
+      {
+        "id": 4,
+        "icon": "🏅",
+        "title": "Certification",
+        "description": "Yes"
+      },
+      {
+        "id": 5,
+        "icon": "💼",
+        "title": "Support",
+        "description": "Lifetime Support"
+      },
+      {
+        "id": 6,
+        "icon": "💼",
+        "title": "Project-based Learning",
+        "description": "Real world clint-style tasks"
+      },
+      {
+        "id": 7,
+        "icon": "💼",
+        "title": "Career Support",
+        "description": "Freelance Guidance & Job Placement Support"
+      }
+    ],
+
+    "courseContent": [
+      {
+        "id": 1,
+        "icon": "📄",
+        "title": "Adobe Photoshop"
+      },
+      {
+        "id": 2,
+        "icon": "🔍",
+        "title": "Adobe Illustrator"
+      },
+      {
+        "id": 3,
+        "icon": "📈",
+        "title": "Principles of Graphic Design"
+      },
+      {
+        "id": 4,
+        "icon": "📧",
+        "title": "Color Psychology"
+      },
+      {
+        "id": 5,
+        "icon": "🎯",
+        "title": "Techniques for creating unique designs"
+      },
+      {
+        "id": 6,
+        "icon": "💬",
+        "title": "Strategies for reading client minds and creating high-quality designs",
+        "description": ""
+      },
+      {
+        "id": 7,
+        "icon": "📱",
+        "title": "Creating graphic elements using Artificial Intelligence",
+        "description": ""
+      },
+      {
+        "id": 8,
+        "icon": "💬",
+        "title": "Photo Editing",
+        "description": ""
+      },
+      {
+        "id": 9,
+        "icon": "💬",
+        "title": "Logo and Branding",
+        "description": ""
+      },
+      {
+        "id": 10,
+        "icon": "💬",
+        "title": "Brand Idendity Design",
+        "description": ""
+      },
+      {
+        "id": 11,
+        "icon": "💬",
+        "title": "Print Element Design",
+        "description": ""
+      },
+      {
+        "id": 12,
+        "icon": "💬",
+        "title": "Web Element Design",
+        "description": ""
+      },
+      {
+        "id": 13,
+        "icon": "💬",
+        "title": "T-Shirt Design",
+        "description": ""
+      },
+      {
+        "id": 14,
+        "icon": "💬",
+        "title": "Artificial Tools",
+        "description": ""
+      },
+      {
+        "id": 15,
+        "icon": "💬",
+        "title": "Portfolio Making and Client Acquisition Techniques",
+        "description": ""
+      },
+      {
+        "id": 16,
+        "icon": "💬",
+        "title": "Rules and strategies for working on active and passive marketplaces",
+        "description": ""
+      },
+      {
+        "id": 17,
+        "icon": "💬",
+        "title": "And much more!",
+        "description": ""
+      }
+    ],
+
+    "syllabus": "/pdf/python-syllabus.pdf"
+  },
+  {
+    "id": 3,
+    "title": "Full-Stack Web Development Course",
+    "excerpt": "Master the art of building modern, responsive, and high-performance websites with our Full-Stack Web Development Course.",
+    "description": "This course is designed for both beginners and aspiring developers who want to gain real-world coding experience. From designing beautiful front-end interfaces to building powerful back-end systems, you’ll learn how to create complete web applications using the most in-demand technologies. Whether you want to become a freelancer, join a tech company, or launch your own startup—this course will give you the skills and confidence to succeed.",
+    "category": "Web Design & Development",
+    "duration": "4 Months",
+    "difficultyLevel": "Beginner to Advance",
+    "prerequisites": ["Basic Computer Skills", "Internet Access"],
+    "language": "Bangla, English",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React.js",
+      "Node.js",
+      "MongoDB",
+      "Express.js",
+      "Full-Stack"
+    ],
+    "ratings": {
+      "averageRating": 4.8,
+      "totalReviews": 200
+    },
+    "enrollmentCount": 75,
+    "price": 12000,
+    "discountPrice": 10000,
+    "certification": true,
+    "communitySupport": true,
+    "courseStatus": "Active",
+    "media": {
+      "icon": "/courseicons/wd.png",
+      "thumbnail": "/courses/wd.jpg",
+      "banner": "/courses/wd.png",
+      "promoVideo": "/vid/fswd-intro.mp4"
+    },
+    "courseInfo": [
+      {
+        "id": 1,
+        "icon": "🕒",
+        "title": "Course Duration",
+        "description": "4 Months"
+      },
+      {
+        "id": 2,
+        "icon": "💻",
+        "title": "Class Mode",
+        "description": "Online / Offline (Flexible Timing)"
+      },
+      {
+        "id": 3,
+        "icon": "📈",
+        "title": "Skill Level",
+        "description": "Beginner to Advanced"
+      },
+      {
+        "id": 4,
+        "icon": "🏅",
+        "title": "Certification",
+        "description": "Yes (With Project Assessment)"
+      },
+      {
+        "id": 5,
+        "icon": "💼",
+        "title": "Support",
+        "description": "Lifetime Support"
+      },
+      {
+        "id": 6,
+        "icon": "💼",
+        "title": "Career Support",
+        "description": "Internship, Freelance Support & Job Placement"
+      }
+    ],
+    "courseContent": [
+      {
+        "id": 1,
+        "icon": "🌐",
+        "title": "Frontend Development",
+        "description": "HTML5, CSS3, JavaScript (ES6+), Responsive Web Design, Bootstrap/Tailwind CSS, React.js"
+      },
+      {
+        "id": 2,
+        "icon": "🖥️",
+        "title": "Backend Development",
+        "description": "Node.js, Express.js, RESTful APIs, MongoDB/Mongoose, Authentication (JWT/OAuth), MVC Architecture"
+      },
+      {
+        "id": 3,
+        "icon": "🔧",
+        "title": "Additional Skills",
+        "description": "Git & GitHub, Hosting & Deployment (Netlify, Vercel, Heroku), Debugging Techniques, Full-Stack Project Building, Freelancing & Career Guidance"
+      }
+    ],
+    "syllabus": "/pdf/fullstack-webdev-syllabus.pdf"
+  },
+  {
+    "id": 4,
+    "title": "Web Design Course",
+    "excerpt": "Design is more than beauty—it's functionality, creativity, and user experience. Our Web Design Course teaches you how to craft professional, responsive, and modern websites that engage users and perform smoothly across all devices.",
+    "description": "With a focus on both visual aesthetics and practical coding skills, this course bridges the gap between design thinking and front-end development. Ideal for aspiring designers, developers, and freelancers, it builds a strong foundation for UI/UX careers or solo web design businesses.",
+    "category": "Web Design & Development",
+    "duration": "3 Months",
+    "difficultyLevel": "Beginner to Intermediate",
+    "prerequisites": ["Basic Computer Skills", "Internet Access"],
+    "language": "Bangla, English",
+    "tags": [
+      "HTML5",
+      "CSS3",
+      "Responsive Design",
+      "UI/UX",
+      "Figma",
+      "Adobe XD",
+      "Bootstrap",
+      "Tailwind CSS"
+    ],
+    "ratings": {
+      "averageRating": 4.7,
+      "totalReviews": 180
+    },
+    "enrollmentCount": 60,
+    "price": 1000,
+    "discountPrice": 8000,
+    "certification": true,
+    "communitySupport": true,
+    "courseStatus": "Active",
+    "media": {
+      "icon": "/courseicons/wddd.png",
+      "thumbnail": "/courses/wddd.jpg",
+      "banner": "/courses/wddd.jpg",
+      "promoVideo": "/vid/webdesign-intro.mp4"
+    },
+    "courseInfo": [
+      {
+        "id": 1,
+        "icon": "🕒",
+        "title": "Course Duration",
+        "description": "3 Months"
+      },
+      {
+        "id": 2,
+        "icon": "💻",
+        "title": "Class Mode",
+        "description": "Online / Offline"
+      },
+      {
+        "id": 3,
+        "icon": "📈",
+        "title": "Skill Level",
+        "description": "Beginner to Intermediate"
+      },
+      {
+        "id": 4,
+        "icon": "🏅",
+        "title": "Certification",
+        "description": "Yes"
+      },
+      {
+        "id": 5,
+        "icon": "💼",
+        "title": "Support",
+        "description": "Freelancing + UI/UX Job Support"
+      },
+      {
+        "id": 6,
+        "icon": "🧠",
+        "title": "Method",
+        "description": "Design + Code with Real Projects"
+      }
+    ],
+    "courseContent": [
+      {
+        "id": 1,
+        "icon": "🌐",
+        "title": "HTML5 & CSS3",
+        "description": "Learn the fundamentals of web structure and styling using HTML5 and CSS3."
+      },
+      {
+        "id": 2,
+        "icon": "📱",
+        "title": "Responsive Design",
+        "description": "Implement responsive layouts using Media Queries, Flexbox, and Grid to ensure compatibility across devices."
+      },
+      {
+        "id": 3,
+        "icon": "🎨",
+        "title": "UI/UX Principles",
+        "description": "Understand user interface and user experience design principles to create intuitive and engaging websites."
+      },
+      {
+        "id": 4,
+        "icon": "🛠️",
+        "title": "Figma / Adobe XD",
+        "description": "Design mockups and prototypes using industry-standard tools like Figma and Adobe XD."
+      },
+      {
+        "id": 5,
+        "icon": "🔤",
+        "title": "Typography & Color Theory",
+        "description": "Explore the principles of typography and color theory to enhance visual appeal and readability."
+      },
+      {
+        "id": 6,
+        "icon": "✨",
+        "title": "Animation & Transitions",
+        "description": "Add interactivity and visual effects using CSS and JavaScript animations and transitions."
+      },
+      {
+        "id": 7,
+        "icon": "⚙️",
+        "title": "Bootstrap / Tailwind CSS",
+        "description": "Utilize popular CSS frameworks to streamline the development process and ensure responsive design."
+      },
+      {
+        "id": 8,
+        "icon": "📂",
+        "title": "Website Projects",
+        "description": "Apply your skills to real-world projects including a portfolio, landing page, and blog."
+      }
+    ],
+    "syllabus": "/pdf/web-design-syllabus.pdf"
+  },
+  {
+    "id": 5,
+    "title": "Office Application & Basic Computer Skill",
+    "excerpt": "Step into the digital world confidently with our Basic Computer Course for Beginners—ideal for students, job seekers, and anyone building foundational computer skills.",
+    "description": "This course is designed to help individuals become comfortable and efficient with computers. You'll learn core digital skills including operating systems, internet usage, file management, typing, Microsoft Office tools, and Google applications. Perfect for academic, personal, or office work.",
+    "category": "Basic Computer",
+    "duration": "3 Months",
+    "difficultyLevel": "Absolute Beginner",
+    "prerequisites": ["Willingness to Learn", "Access to a Computer"],
+    "language": "Bangla, English",
+    "tags": [
+      "MS Office",
+      "Typing",
+      "Google Tools",
+      "Internet",
+      "Email",
+      "Freelancing"
+    ],
+    "ratings": {
+      "averageRating": 4.8,
+      "totalReviews": 130
+    },
+    "enrollmentCount": 80,
+    "price": 6000,
+    "discountPrice": 5000,
+    "certification": true,
+    "communitySupport": true,
+    "courseStatus": "Active",
+    "media": {
+      "icon": "/courseicons/bc.png",
+      "thumbnail": "/courses/bc.jpg",
+      "banner": "/courses/bc.jpg",
+      "promoVideo": "/vid/basic-intro.mp4"
+    },
+    "courseInfo": [
+      {
+        "id": 1,
+        "icon": "🕒",
+        "title": "Course Duration",
+        "description": "2.5 Months"
+      },
+      {
+        "id": 2,
+        "icon": "💻",
+        "title": "Class Mode",
+        "description": "Online / Offline (Flexible)"
+      },
+      {
+        "id": 3,
+        "icon": "📈",
+        "title": "Skill Level",
+        "description": "Absolute Beginner"
+      },
+      {
+        "id": 4,
+        "icon": "🏅",
+        "title": "Certification",
+        "description": "Yes"
+      },
+      {
+        "id": 5,
+        "icon": "🧑‍🏫",
+        "title": "Teaching Method",
+        "description": "Practical & Easy-to-Follow"
+      },
+      {
+        "id": 6,
+        "icon": "💼",
+        "title": "Career Relevance",
+        "description": "Suitable for Students, Office Jobs, Freelancers"
+      }
+    ],
+    "courseContent": [
+      {
+        "id": 1,
+        "icon": "💡",
+        "title": "Computer Basics",
+        "description": "Understand hardware, software, and how computers work."
+      },
+      {
+        "id": 2,
+        "icon": "📁",
+        "title": "File & Windows Management",
+        "description": "Learn file organization, folder handling, and Windows basics."
+      },
+      {
+        "id": 3,
+        "icon": "📝",
+        "title": "MS Word",
+        "description": "Create and format professional documents."
+      },
+      {
+        "id": 4,
+        "icon": "📊",
+        "title": "MS Excel",
+        "description": "Perform data entry, formulas, and spreadsheet analysis."
+      },
+      {
+        "id": 5,
+        "icon": "📽️",
+        "title": "MS PowerPoint",
+        "description": "Design engaging presentations."
+      },
+      {
+        "id": 6,
+        "icon": "📇",
+        "title": "MS Access",
+        "description": "Build and manage simple databases."
+      },
+      {
+        "id": 7,
+        "icon": "⌨️",
+        "title": "Typing Skills",
+        "description": "Improve typing speed in English and Bangla using software tools."
+      },
+      {
+        "id": 8,
+        "icon": "📬",
+        "title": "Internet & Email",
+        "description": "Browse safely and communicate via email effectively."
+      },
+      {
+        "id": 9,
+        "icon": "🌐",
+        "title": "Google Docs, Sheets & Slides",
+        "description": "Collaborate and work using Google productivity tools."
+      },
+      {
+        "id": 10,
+        "icon": "🧾",
+        "title": "CV Writing & Presentation",
+        "description": "Create professional resumes and deliver creative presentations."
+      },
+      {
+        "id": 11,
+        "icon": "💼",
+        "title": "Freelancing Basics",
+        "description": "Get an overview of outsourcing and freelancing platforms."
+      }
+    ],
+    "syllabus": "/pdf/basic-computer-syllabus.pdf"
+  },
+  
+  {
+    "id": 6,
+    "title": "Python Programming Course – From Basics to Advanced",
+    "excerpt": "Jumpstart your coding journey with our Python Programming Course, designed for absolute beginners and future developers.",
+    "description": "Python is one of the most popular and beginner-friendly programming languages, used in web development, automation, data science, artificial intelligence, and more. This course offers a hands-on, project-based learning experience to help you build real-world Python applications. You'll master the core concepts of programming, learn problem-solving techniques, and gain confidence in using Python for various professional domains.",
+    "category": "Python Programming",
+    "duration": "2.5 Months",
+    "difficultyLevel": "Beginner to Advanced",
+    "prerequisites": ["Basic Computer Skills", "Internet Access"],
+    "language": "Bangla, English",
+    "tags": [
+      "Python",
+      "Web Development",
+      "Data Science",
+      "Automation",
+      "Machine Learning"
+    ],
+    "ratings": {
+      "averageRating": 4.9,
+      "totalReviews": 150
+    },
+    "enrollmentCount": 50,
+    "price": 8000,
+    "discountPrice": 7000,
+    "certification": true,
+    "communitySupport": true,
+    "courseStatus": "Active",
+    "media": {
+      "icon": "/courseicons/pp.png",
+      "thumbnail": "/courses/pp.jpg",
+      "banner": "/courses/pp.jpg",
+      "promoVideo": "/vid/python-intro.mp4"
+    },
+    "courseInfo": [
+      {
+        "id": 1,
+        "icon": "🕒",
+        "title": "Course Duration",
+        "description": "2.5 Months"
+      },
+      {
+        "id": 2,
+        "icon": "💻",
+        "title": "Class Mode",
+        "description": "Online / Offline (Both Available)"
+      },
+      {
+        "id": 3,
+        "icon": "📈",
+        "title": "Skill Level",
+        "description": "Beginner to Advanced"
+      },
+      {
+        "id": 4,
+        "icon": "🏅",
+        "title": "Certification",
+        "description": "Yes"
+      },
+      {
+        "id": 5,
+        "icon": "💼",
+        "title": "Support",
+        "description": "Lifetime Support"
+      },
+      {
+        "id": 6,
+        "icon": "💼",
+        "title": "Career Support",
+        "description": "Freelance Guidance & Job Placement Support"
+      }
+    ],
+    "courseContent": [
+      {
+        "id": 1,
+        "icon": "🐍",
+        "title": "Core Python Programming",
+        "description": "Variables, Data Types, Control Flow, Functions, Data Structures, File & Error Handling"
+      },
+      {
+        "id": 2,
+        "icon": "📦",
+        "title": "Intermediate Python",
+        "description": "OOP, External Libraries, APIs, Regex, Projects like Calculator and Quiz App"
+      },
+      {
+        "id": 3,
+        "icon": "🚀",
+        "title": "Advanced Topics",
+        "description": "GUI (Tkinter/PyQt), Flask/Django, Data Science (Pandas/Matplotlib), Web Scraping, Automation"
+      },
+      {
+        "id": 4,
+        "icon": "📁",
+        "title": "Capstone Project",
+        "description": "Build a full real-world application using learned skills"
+      },
+      {
+        "id": 5,
+        "icon": "🧪",
+        "title": "Mini Projects",
+        "description": "Hands-on coding exercises after each module"
+      },
+      {
+        "id": 6,
+        "icon": "🎓",
+        "title": "Certification Preparation",
+        "description": "Assessment and mock test for final certification"
+      },
+      {
+        "id": 7,
+        "icon": "🤝",
+        "title": "Career Guidance",
+        "description": "Tips on freelancing, internships, and job readiness"
+      },
+      {
+        "id": 8,
+        "icon": "💬",
+        "title": "Community Access",
+        "description": "Peer discussion, support groups, and mentor Q&A"
+      }
+    ],
+    "syllabus": "/pdf/python-syllabus.pdf"
+  },
+  {
+    "id": 7,
+    "title": "Android App Development Course",
+    "excerpt": "Master the fundamentals of mobile development by building powerful Android apps from scratch.",
+    "description": "The Android App Development Course is your gateway to entering the ever-growing mobile app industry. In this in-depth and beginner-friendly course, you will learn how to build powerful, interactive, and fully functional Android applications from scratch. Guided by expert instructors and real-world projects, you'll explore Android Studio, learn to code in Java and Kotlin, work with APIs, integrate Firebase, and master UI/UX for mobile devices.",
+    "category": "Mobile App Development",
+    "duration": "4 Months",
+    "difficultyLevel": "Beginner to Intermediate",
+    "prerequisites": ["Basic Programming Knowledge", "Computer with Internet"],
+    "language": "Bangla, English",
+    "tags": ["Android", "Java", "Kotlin", "Firebase", "Mobile Development"],
+    "ratings": {
+      "averageRating": 4.8,
+      "totalReviews": 120
+    },
+    "enrollmentCount": 40,
+    "price": 15000,
+    "discountPrice": 12000,
+    "certification": true,
+    "communitySupport": true,
+    "courseStatus": "Active",
+    "media": {
+      "icon": "/courseicons/aad.png",
+      "thumbnail": "/courses/aad.jpg",
+      "banner": "/courses/aad.jpg",
+      "promoVideo": "/vid/android-intro.mp4"
+    },
+    "courseInfo": [
+      {
+        "id": 1,
+        "icon": "🕒",
+        "title": "Course Duration",
+        "description": "4 Months"
+      },
+      {
+        "id": 2,
+        "icon": "💻",
+        "title": "Class Mode",
+        "description": "Online / Offline (Both Available)"
+      },
+      {
+        "id": 3,
+        "icon": "📈",
+        "title": "Skill Level",
+        "description": "Beginner to Intermediate"
+      },
+      {
+        "id": 4,
+        "icon": "🏅",
+        "title": "Certification",
+        "description": "Yes (with App Submission)"
+      },
+      {
+        "id": 5,
+        "icon": "💼",
+        "title": "Support",
+        "description": "Freelancing & Internship Guidance"
+      }
+    ],
+    "courseContent": [
+      {
+        "id": 1,
+        "icon": "🛠️",
+        "title": "Android Studio & UI Design",
+        "description": "Setting up Android Studio and building user interfaces"
+      },
+      {
+        "id": 2,
+        "icon": "💻",
+        "title": "Java & Kotlin Basics",
+        "description": "Fundamentals of Java and Kotlin for Android development"
+      },
+      {
+        "id": 3,
+        "icon": "🔄",
+        "title": "App Architecture",
+        "description": "Activity Lifecycle, Intents, Fragments, Navigation"
+      },
+      {
+        "id": 4,
+        "icon": "🔥",
+        "title": "Firebase Integration",
+        "description": "Database, Authentication, and Real-time Features"
+      },
+      {
+        "id": 5,
+        "icon": "🌐",
+        "title": "API Integration",
+        "description": "Calling APIs with Retrofit and parsing data"
+      },
+      {
+        "id": 6,
+        "icon": "💾",
+        "title": "Data Storage",
+        "description": "SQLite and Shared Preferences for local data"
+      },
+      {
+        "id": 7,
+        "icon": "🚀",
+        "title": "App Deployment",
+        "description": "Publishing apps on the Google Play Store"
+      },
+      {
+        "id": 8,
+        "icon": "📱",
+        "title": "Real Projects",
+        "description": "Hands-on projects: To-Do App, Notes App, Chat App"
+      }
+    ],
+    "syllabus": "/pdf/android-syllabus.pdf"
+  },
+  {
+    "id": 8,
+    "title": "Cyber Security Course",
+    "excerpt": "Learn how to protect systems and data from cyber threats with real-world ethical hacking and defense techniques.",
+    "description": "In today’s digital age, cybersecurity is not a luxury—it's a necessity. Our Cyber Security Course is designed to equip students with the skills to protect computer systems, networks, and personal data from cyber threats. Learn from experienced cybersecurity professionals as you gain hands-on experience in ethical hacking, penetration testing, and network defense. From learning how hackers think to applying real-world security techniques, this course is perfect for IT students, ethical hacking enthusiasts, and future cyber defenders.",
+    "category": "Cyber Security",
+    "duration": "4 Months",
+    "difficultyLevel": "Beginner to Intermediate",
+    "prerequisites": ["Basic IT Knowledge", "Computer with Internet"],
+    "language": "Bangla, English",
+    "tags": [
+      "Cybersecurity",
+      "Ethical Hacking",
+      "Penetration Testing",
+      "Network Security",
+      "Cyber Laws"
+    ],
+    "ratings": {
+      "averageRating": 4.85,
+      "totalReviews": 95
+    },
+    "enrollmentCount": 35,
+    "price": 15000,
+    "discountPrice": 12000,
+    "certification": true,
+    "communitySupport": true,
+    "courseStatus": "Active",
+    "media": {
+      "icon": "/courseicons/cs.png",
+      "thumbnail": "/courses/cs.jpg",
+      "banner": "/courses/cs.jpg",
+      "promoVideo": "/vid/cyber-intro.mp4"
+    },
+    "courseInfo": [
+      {
+        "id": 1,
+        "icon": "🕒",
+        "title": "Course Duration",
+        "description": "4 Months"
+      },
+      {
+        "id": 2,
+        "icon": "💻",
+        "title": "Class Mode",
+        "description": "Online / Offline (Both Available)"
+      },
+      {
+        "id": 3,
+        "icon": "📈",
+        "title": "Skill Level",
+        "description": "Beginner to Intermediate"
+      },
+      {
+        "id": 4,
+        "icon": "🏅",
+        "title": "Certification",
+        "description": "Yes"
+      },
+      {
+        "id": 5,
+        "icon": "💼",
+        "title": "Support",
+        "description": "Job Prep + Ethical Hacking Freelance Setup"
+      }
+    ],
+    "courseContent": [
+      {
+        "id": 1,
+        "icon": "🔐",
+        "title": "Cyber Security Fundamentals",
+        "description": "Learn the foundational principles of cybersecurity."
+      },
+      {
+        "id": 2,
+        "icon": "🌐",
+        "title": "Networking & IP Protocols",
+        "description": "Understand how networks operate and how they are attacked."
+      },
+      {
+        "id": 3,
+        "icon": "🐧",
+        "title": "Kali Linux & Hacking Tools",
+        "description": "Hands-on use of tools in Kali Linux environment."
+      },
+      {
+        "id": 4,
+        "icon": "🛡️",
+        "title": "System & Web Vulnerabilities",
+        "description": "Test and secure system and web app vulnerabilities."
+      },
+      {
+        "id": 5,
+        "icon": "📶",
+        "title": "Wi-Fi Hacking Techniques",
+        "description": "Understand and test Wi-Fi network security."
+      },
+      {
+        "id": 6,
+        "icon": "🌐",
+        "title": "OWASP Top 10",
+        "description": "Master web app security through OWASP's top threats."
+      },
+      {
+        "id": 7,
+        "icon": "🎭",
+        "title": "Social Engineering",
+        "description": "Identify and defend against phishing and manipulation attacks."
+      },
+      {
+        "id": 8,
+        "icon": "🔎",
+        "title": "Penetration Testing",
+        "description": "Simulate real-world attacks and defend systems."
+      },
+      {
+        "id": 9,
+        "icon": "⚖️",
+        "title": "Cyber Laws & Forensics",
+        "description": "Explore legal frameworks and digital investigation basics."
+      }
+    ],
+    "syllabus": "/pdf/cybersecurity-syllabus.pdf"
+  },
+  {
+    "id": 9,
+    "title": "Video Editing & Motion Graphics Course",
+    "excerpt": "Turn your creativity into career-ready skills with our Video Editing and Motion Graphics Course.",
+    "description": "Whether you're dreaming of becoming a YouTuber, content creator, video editor, or VFX artist—this course gives you the tools to bring your visual stories to life. You'll master industry-standard tools like Adobe Premiere Pro and After Effects, learn how to edit professional-grade videos, create stunning transitions, animate text, and apply visual effects that grab attention. Ideal for freelancers, marketing professionals, and anyone passionate about visual storytelling.",
+    "category": "Video Editing & Motion Graphics",
+    "duration": "4 Months",
+    "difficultyLevel": "Beginner to Intermediate",
+    "prerequisites": ["Basic Computer Skills", "Creative Mindset"],
+    "language": "Bangla, English",
+    "tags": [
+      "Video Editing",
+      "Motion Graphics",
+      "Premiere Pro",
+      "After Effects",
+      "YouTube"
+    ],
+    "ratings": {
+      "averageRating": 4.88,
+      "totalReviews": 120
+    },
+    "enrollmentCount": 45,
+    "price": 10000,
+    "discountPrice": 8000,
+    "certification": true,
+    "communitySupport": true,
+    "courseStatus": "Active",
+    "media": {
+      "icon": "/courseicons/vem.png",
+      "thumbnail": "/courses/vem.jpg",
+      "banner": "/courses/vem.jpg",
+      "promoVideo": "/vid/video-editing-intro.mp4"
+    },
+    "courseInfo": [
+      {
+        "id": 1,
+        "icon": "🕒",
+        "title": "Course Duration",
+        "description": "4 Months"
+      },
+      {
+        "id": 2,
+        "icon": "💻",
+        "title": "Class Mode",
+        "description": "Online / Offline (Both Available)"
+      },
+      {
+        "id": 3,
+        "icon": "📈",
+        "title": "Skill Level",
+        "description": "Beginner to Intermediate"
+      },
+      {
+        "id": 4,
+        "icon": "🏅",
+        "title": "Certification",
+        "description": "Yes"
+      },
+      {
+        "id": 5,
+        "icon": "💼",
+        "title": "Support",
+        "description": "Freelancing, YouTube Setup, Client Project Help"
+      }
+    ],
+    "courseContent": [
+      {
+        "id": 1,
+        "icon": "🎞️",
+        "title": "Premiere Pro Basics",
+        "description": "Learn professional editing with Adobe Premiere Pro."
+      },
+      {
+        "id": 2,
+        "icon": "🎧",
+        "title": "Sound Design",
+        "description": "Audio syncing, background music, and SFX integration."
+      },
+      {
+        "id": 3,
+        "icon": "✨",
+        "title": "Motion Graphics",
+        "description": "Animate text, titles, and transitions in After Effects."
+      },
+      {
+        "id": 4,
+        "icon": "🟩",
+        "title": "Green Screen Effects",
+        "description": "Master chroma keying and background replacement."
+      },
+      {
+        "id": 5,
+        "icon": "🎨",
+        "title": "Color Correction",
+        "description": "Apply LUTs and color grade your footage."
+      },
+      {
+        "id": 6,
+        "icon": "📺",
+        "title": "YouTube Optimization",
+        "description": "Edit and format videos for YouTube and social media."
+      },
+      {
+        "id": 7,
+        "icon": "🎬",
+        "title": "VFX & Transitions",
+        "description": "Add dynamic effects and seamless scene transitions."
+      },
+      {
+        "id": 8,
+        "icon": "📁",
+        "title": "Portfolio & Client Work",
+        "description": "Build a demo reel and complete real-world projects."
+      }
+    ],
+    "syllabus": "/pdf/video-editing-syllabus.pdf"
+  }
+  
+  
+]

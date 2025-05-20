@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "icon":"💻",
+        "detail":"Practical & Job-Oriented Training"
+    },
+    {
+        "id":2,
+        "icon":"👨‍🏫 ",
+        "detail":"Expert Instructors from the Industry"
+    },
+    {
+        "id":3,
+        "icon":"🎯 ",
+        "detail":"Project-Based Learning Approach"
+    },
+    {
+        "id":4,
+        "icon":"💼",
+        "detail":"Career Support + Freelancing Guidance"
+    },
+    {
+        "id":5,
+        "icon":"🏆",
+        "detail":"International Standard Curriculum"
+    },
+    {
+        "id":6,
+        "icon":"📜",
+        "detail":"Recognized Certification for All Courses"
+    }
+]

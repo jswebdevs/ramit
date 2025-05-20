@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name" : "MD ABDUR RAHMAN",
+        "designation" : "Founder & CEO\n RAM IT BD, Rajshahi",
+        "image" : "/team/ar.png"
+    },
+    {
+        "id": 2,
+        "name" : "Habibur RAHMAN",
+        "designation" : "Advisor, RAM IT\n Former Principal, Rajshahi College",
+        "image" : "/team/hr.png"
+    },
+    {
+        "id" : 3,
+        "name" : "Pro Dr. M. OSMAN GANI TALUKDER",
+        "designation" : "Advisor RAM IT\nFormer Vice-Chancellor",
+        "image" : "/team/ogt.jpg"
+    },
+    {
+        "id" : 4,
+        "name": "Most. Ankhi Milon Sumia",
+        "designation": "CHRO, RAM IT",
+        "image": "/team/user.png"
+    },
+    {
+        "id" : 5,
+        "name" : "Md Abu Hasan Isa",
+        "designation" : "EO, RAM IT",
+        "image" : "/team/user.png"
+    }
+]
